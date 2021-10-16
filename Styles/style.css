@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,700&display=swap');
+
+*, body, html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+
+/* navigation bar */
+
+.header-nav {
+    padding-right: 150px;
+}
+
+/* styles for term for us and privacy policy */
+.policy {
+    letter-spacing: 10%;
+}
+
+.term-section{
+    letter-spacing: 10%;
+}
+
+/* BUTTON */
+.btn-1 {
+    background: #274690;
+}
+
+
+/* Footer Section*/
+
+.footer-section {
+    background: rgba(214, 242, 255, 0.3);
+}
+
+
+
+
+@media(max-width: 768px) {
+    .nav-header {
+        justify-content: center;
+    }
+}
