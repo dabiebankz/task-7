@@ -15,13 +15,14 @@
 }
 
 /* styles for term for us and privacy policy */
-.policy {
-    letter-spacing: 10%;
+.term {
+    letter-spacing: 3px;
 }
 
-.term-section{
-    letter-spacing: 10%;
+.policy-section {
+    letter-spacing: 3px;
 }
+
 
 /* BUTTON */
 .btn-1 {
